@@ -1,0 +1,28 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+li {background-color: green;
+font-family: arial;
+font-size: 60px;
+font-style: bold;
+color: black;
+display: inline-block;
+opacity: 1;
+margin-right: 50px;
+a: hover;
+}
+
+ul {text-align: right;}
+
+aside {float: left;
+widht: 30%;
+
+}
+
+header {}
+
+article {float: right;
+widht: 70%;
+margine-bottom: 200px;
+}
+
